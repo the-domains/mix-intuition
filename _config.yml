@@ -1,14 +1,14 @@
-layout_spectrum: 0.5348381556104869
-typography_spectrum: 0.5728720428887755
+layout_spectrum: 0.36864108056761324
+typography_spectrum: 0.6636329172179103
 color:
-  brandStrength: 0.8528137225657701
-  lightness: 0.38899126439355314
-  saturation: 0.49085610057227314
-  rhythmicContrast: 0.03743714443407953
+  brandStrength: 0.16993436124175787
+  lightness: 0.8739799351897091
+  saturation: 0.8639686207752675
+  rhythmicContrast: 0.5815927481744438
   brandColors:
-    - '#00261C'
-    - '#044D29'
-    - '#168039'
-    - '#45BF55'
-    - '#96ED89'
+    - '#B8ECD7'
+    - '#083643'
+    - '#B1E001'
+    - '#CEF09D'
+    - '#476C5E'
 name: Mix Intuition

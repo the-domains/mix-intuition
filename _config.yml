@@ -1,19 +1,14 @@
-layout_spectrum: 0.1362376541364938
-typography_spectrum: 0.4405989055521786
+layout_spectrum: 0.5348381556104869
+typography_spectrum: 0.3019414048176259
 color:
-  brandStrength: 0.011029471410438418
-  lightness: 0.7549532961566001
-  saturation: 0.6405990147031844
-  rhythmicContrast: 0.12620791932567954
+  brandStrength: 0.14190100342966616
+  lightness: 0.38645351212471724
+  saturation: 0.6260212096385658
+  rhythmicContrast: 0.013968699844554067
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Mix Intuition
-navigation:
-  - id: 3517b351-72d5-4ab8-88fb-20862b6f2d2b
-    url: 2016-07-19-3517b351-72d5-4ab8-88fb-20862b6f2d2b.html
-    name: Insight
-    type: content
